@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  acceleration:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-03-23T08:50:16.097020305+08:00"
+    description: A Helm chart for Kubernetes
+    digest: 8723b222d5cf5b097a9fd05fe00b8ab3d6340c9504a8158edbb247c9cc1f79bf
+    name: acceleration
+    urls:
+    - https://github.com/embed-coder/my-helm-charts/releases/download/acceleration-0.1.0/acceleration-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-03-23T08:50:15.738928683+08:00"
