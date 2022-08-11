@@ -10,4 +10,24 @@ entries:
     urls:
     - https://github.com/embed-coder/my-helm-charts/releases/download/acceleration-0.1.0/acceleration-0.1.0.tgz
     version: 0.1.0
+  nginx_test_app:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-08-11T20:55:07.430109326+08:00"
+    description: A Helm chart for Kubernetes
+    digest: 624ac72316c6d39020679ecb9abc1ee6902ea7fd5e21437d1954b184968c410b
+    name: nginx_test_app
+    urls:
+    - https://github.com/embed-coder/my-helm-charts/releases/download/nginx_test_app-0.1.0/nginx_test_app-0.1.0.tgz
+    version: 0.1.0
+  prometheus:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-08-11T20:55:07.733789403+08:00"
+    description: SkyLab Monitoring application
+    digest: e7569026c72f26d18b9b5a8fbfbd34ba921b7cd5cb74e01c8a0d31871ad58c9a
+    name: prometheus
+    urls:
+    - https://github.com/embed-coder/my-helm-charts/releases/download/prometheus-0.1.0/prometheus-0.1.0.tgz
+    version: 0.1.0
 generated: "2022-03-23T08:50:15.738928683+08:00"
