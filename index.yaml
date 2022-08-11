@@ -23,6 +23,16 @@ entries:
   prometheus:
   - apiVersion: v2
     appVersion: 1.16.0
+    created: "2022-08-11T21:07:58.920268007+08:00"
+    description: SkyLab Monitoring application
+    digest: 5655b7322099f09d9704ef63b655f27a8e9a697f2711e3ae6a4237bff31d5945
+    icon: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Prometheus_software_logo.svg/1024px-Prometheus_software_logo.svg.png
+    name: prometheus
+    urls:
+    - https://github.com/embed-coder/my-helm-charts/releases/download/prometheus-0.2.0/prometheus-0.2.0.tgz
+    version: 0.2.0
+  - apiVersion: v2
+    appVersion: 1.16.0
     created: "2022-08-11T20:55:07.733789403+08:00"
     description: SkyLab Monitoring application
     digest: e7569026c72f26d18b9b5a8fbfbd34ba921b7cd5cb74e01c8a0d31871ad58c9a
